@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\gamestore.api\\GameStore.Api.csproj": {}
+    "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\gamestore.api\\GameStore.Api.csproj": {
+    "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\gamestore.api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\gamestore.api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\exize\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\gamestore.api\\obj\\",
+        "outputPath": "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\exize\\AppData\\Roaming\\NuGet\\NuGet.Config",

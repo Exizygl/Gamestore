@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "m44fBNc3wryCTytB7UcxJf+2E9bGYqxGxxjG1P7LyB4q7swcM3bSnw4UiFAK4vBLHnY6B5Ok8Pk0pd8mogbwAQ==",
+  "dgSpecHash": "5VXWO/dyHA0glIPkg21Cad50Tc4R+kS6/KWteuNQP1svi5Ap8izoxOKcD8vl5CrdfZfkN2fJ7AFeXasru9yEmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

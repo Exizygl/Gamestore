@@ -1,12 +1,36 @@
 {
   "version": 2,
-  "dgSpecHash": "5VXWO/dyHA0glIPkg21Cad50Tc4R+kS6/KWteuNQP1svi5Ap8izoxOKcD8vl5CrdfZfkN2fJ7AFeXasru9yEmQ==",
+  "dgSpecHash": "9+DIGFCKBrm+CPam4vjCtMwXOIeD/fXrf9QJbQ74Ff2aNvCvj0ILfXmSRKND93rl3yF/0hz9kVwNRweReWPIuA==",
   "success": true,
   "projectFilePath": "C:\\Users\\exize\\OneDrive\\Bureau\\Incubateur\\Projet\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0-preview.3.24172.4\\microsoft.data.sqlite.core.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.relational.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.sqlite.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.sqlite.core.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.caching.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.3.24172.9\\microsoft.extensions.caching.memory.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.configuration.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.3.24172.9\\microsoft.extensions.dependencyinjection.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.0-preview.3.24172.9\\microsoft.extensions.dependencymodel.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-preview.3.24172.9\\microsoft.extensions.logging.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.logging.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.3.24172.9\\microsoft.extensions.options.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.3.24172.9\\microsoft.extensions.primitives.9.0.0-preview.3.24172.9.nupkg.sha512",
     "C:\\Users\\exize\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\exize\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
-    "C:\\Users\\exize\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+    "C:\\Users\\exize\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.7\\sqlitepclraw.bundle_e_sqlite3.2.1.7.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\sqlitepclraw.core\\2.1.7\\sqlitepclraw.core.2.1.7.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.7\\sqlitepclraw.lib.e_sqlite3.2.1.7.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.7\\sqlitepclraw.provider.e_sqlite3.2.1.7.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\system.text.encodings.web\\9.0.0-preview.3.24172.9\\system.text.encodings.web.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\exize\\.nuget\\packages\\system.text.json\\9.0.0-preview.3.24172.9\\system.text.json.9.0.0-preview.3.24172.9.nupkg.sha512"
   ],
   "logs": []
 }

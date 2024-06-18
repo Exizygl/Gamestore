@@ -1,7 +1,7 @@
 GET http://localhost:5023/games
 
 ###
-GET http://localhost:5023/games/15
+GET http://localhost:5023/games/2
 
 
 ###
@@ -10,19 +10,19 @@ Content-Type: application/json
 
 {
     "name" : "Fire Emblem Path of Radiance",
-    "genre" : "TRPG",
+    "genreId" : 2,
     "Price" : 150.99,
     "releaseDate" : "2006-04-20"
 }
 
 ###
-PUT  http://localhost:5023/games/4
+PUT  http://localhost:5023/games/2
 Content-Type: application/json
 
 {
     
     "name" : "Fire Emblem Radiant dawn",
-    "genre" : "TRPG",
+    "genreId" : 2,
     "Price" : 150.99,
     "releaseDate" : "2006-04-20"
 }
